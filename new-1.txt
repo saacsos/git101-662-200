@@ -1,0 +1,3 @@
+เพิ่มไฟล์ new-1.txt ใน git102 branch main
+
+จากนั้น add, commit และ push
